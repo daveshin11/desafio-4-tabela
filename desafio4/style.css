@@ -1,0 +1,48 @@
+.produto-center{
+    width: auto;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.produto-moda{
+    background-color:  #BB86FC;
+    color: white;
+}
+
+.produto-casa{
+    height: 40px;
+    background-color:  #00C4B4;
+    color: white;
+}
+
+.produto-color-1{
+    height: 45px;
+    background-color:  #424250;
+    color: white;
+}
+
+.produto-table{
+    box-sizing: border-box;
+    border: 2px solid white;
+    display: inline-block;
+    font-size: 22px;
+}
+
+.produto-table-2{
+    box-sizing: border-box;
+    border: 2px solid white;
+    display: inline-block;
+    font-size: 22px;
+    margin-left: -130px;
+}
+
+.titulo-moda{
+    margin-left: -280px;
+    margin-top: 150px;
+}
+
+.titulo-casa{
+    margin-left: -290px;
+}
+
